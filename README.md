@@ -1,9 +1,7 @@
 Desafio realizado no curso da Alura;
-
-CONTEXTO DO DESAFIO:
-Cliente: Helô, proprietária da loja Petshop Gatitos
-Objetivo: Analisar os dados da loja com foco em três pilares principais: faturamento total, visualizações gráficas dos dados e filtros por produto. 
-Responsabilidade: Desenvolver um dashboard completo que reúna essas informações e ofereça suporte estratégico para as decisões de negócio da Helô.
+Cliente: Helô, proprietária da loja Petshop Gatitos;
+Objetivo: Analisar os dados da loja com foco em três pilares principais: faturamento total, visualizações gráficas dos dados e filtros por produto;
+Responsabilidade: Desenvolver um dashboard completo que reúna essas informações e ofereça suporte estratégico para as decisões de negócio da Helô;
 Requisitos adicionais:
 - Exibir os produtos disponíveis na loja e o faturamento individual por item; 
 - Identificar o gênero predominante entre os compradores de cada produto; 
